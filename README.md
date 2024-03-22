@@ -141,7 +141,8 @@ Execute the program using runserver command.
 ![Screenshot 2024-03-22 134517](https://github.com/04Varsha/slot/assets/149035374/00bb25f5-a75d-469f-9efa-13ce8905c67b)
 
 
-![Screenshot 2024-03-22 133457](https://github.com/04Varsha/slot/assets/149035374/cac9ea71-88eb-4104-9c6a-538bbcb0b5c8)
+![Screenshot 2024-03-22 135951](https://github.com/04Varsha/slot/assets/149035374/eef95dd8-ea9a-4e6a-b074-566c40eca06f)
+
 
 
 ## RESULT
